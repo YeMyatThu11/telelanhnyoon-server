@@ -1,0 +1,37 @@
+Tag=[
+    "18 plus",
+    "alien",
+    "anime",
+    "chinese",
+    "holiday",
+    "history",
+    "kid",
+    "toku",
+    "japanese",
+    "korean",
+    "medical",
+    "puzzle",
+    "police",
+    "revenge"
+    "survival",
+    "supernatural",
+    "wuxia",
+    "zombie",
+]
+
+
+
+Genre=[
+    action
+    war
+    horror
+    historical
+    science <ion-icon name="logo-electron"></ion-icon>
+    fantasy,<ion-icon name="eyedrop-outline"></ion-icon>
+    kids,<ion-icon name="body"></ion-icon>
+    drama,<ion-icon name="heart"></ion-icon>
+    crime,
+    comedy,<ion-icon name="logo-web-component"></ion-icon>
+    mystery,
+    survival,<ion-icon name="skull"></ion-icon>
+]
